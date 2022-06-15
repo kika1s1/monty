@@ -59,6 +59,7 @@ where <file> is the name of the file
 - You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
       
 # This file lists all individuals having contributed content to the repository.
-
+```
 Abel Yitages <abelyitages10@gmail.com>
 Tamirat Kebede <@gmail.com>
+```

@@ -61,5 +61,5 @@ where <file> is the name of the file
 # This file lists all individuals having contributed content to the repository.
 ```
 Abel Yitages <abelyitages10@gmail.com>
-Tamirat Kebede <@gmail.com>
+Tamirat Kebede <tamiratkebede120@gmail.com>
 ```
